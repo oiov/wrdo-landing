@@ -1,30 +1,28 @@
 "use client";
 import HeaderLinks from "@/components/header/HeaderLinks";
-import { LangSwitcher } from "@/components/header/LangSwitcher";
 import { siteConfig } from "@/config/site";
 import { MenuIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { CgClose } from "react-icons/cg";
-import { ThemedButton } from "../ThemedButton";
 
 const links = [
   {
     label: "Features",
     href: "#Features",
   },
-  // {
-  //   label: "Pricing",
-  //   href: "#Pricing",
-  // },
-  // {
-  //   label: "Wall of Love",
-  //   href: "#WallOfLove",
-  // },
   {
     label: "FAQ",
     href: "#FAQ",
+  },
+  {
+    label: "Status",
+    href: "https://status.wr.do",
+  },
+  {
+    label: "Dashboard",
+    href: "https://wr.do/dashboard",
   },
 ];
 
@@ -137,8 +135,8 @@ const Header = () => {
                   <div className="flex items-center gap-x-5 justify-between">
                     <HeaderLinks />
                     <div className="flex items-center justify-end gap-x-5">
-                      <ThemedButton />
-                      <LangSwitcher />
+                      {/* <ThemedButton />
+                      <LangSwitcher /> */}
                     </div>
                   </div>
                 </div>

@@ -1,5 +1,6 @@
 import { SiteConfig } from "@/types/siteConfig";
-import { BsTwitterX } from "react-icons/bs";
+import { BiPieChart } from "react-icons/bi";
+import { BsGithub, BsTwitterX } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { SiBuymeacoffee } from "react-icons/si";
 
@@ -33,7 +34,7 @@ const baseSiteConfig = {
     apple: "/logo.png",
   },
   headerLinks: [
-    // { name: "repo", href: OPEN_SOURCE_URL, icon: BsGithub },
+    { name: "repo", href: OPEN_SOURCE_URL, icon: BsGithub },
     {
       name: "twitter",
       href: "https://twitter.com/yesmoree",
@@ -47,12 +48,13 @@ const baseSiteConfig = {
       href: "https://twitter.com/yesmoree",
       icon: BsTwitterX,
     },
-    // { name: "github", href: "https://github.com/oiov/", icon: BsGithub },
+    { name: "github", href: "https://github.com/oiov/", icon: BsGithub },
     {
       name: "buyMeCoffee",
       href: "https://www.buymeacoffee.com/yesmore",
       icon: SiBuymeacoffee,
     },
+    { name: "Status", href: "https://status.wr.do", icon: BiPieChart },
   ],
   footerProducts: [],
 };

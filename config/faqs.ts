@@ -1,85 +1,83 @@
 export const FAQS_EN = [
   {
-    title: "What is this site for?",
+    title: "What is a URL shortener?",
     content:
-      "This AI chat site is a free platform where users can use the most advanced AI models, including GPT-4, Gemini, Llama3, etc., to engage in conversations with various AI models.",
+      "A URL shortener is an online tool that converts long URLs into shorter ones, making them easier to share and remember.",
   },
   {
-    title: "How to start using the site?",
+    title: "What are the uses of a URL shortener?",
     content:
-      "Just visit our website, choose the AI model you want to use, and start chatting. Email registration or login is required, completely free.",
+      "URL shorteners are mainly used for social media sharing, email marketing, and advertising campaigns, as short links are more concise and easier to disseminate.",
   },
   {
-    title: "What AI models does the site offer?",
+    title: "Is using a URL shortener safe?",
     content:
-      "We offer a variety of advanced AI models, including GPT-4, Gemini, Llama3, deepseek, qwen, etc., to meet the needs of different users.",
+      "Yes, our URL shortener ensures the security and privacy of user data, and does not store any personal information.",
   },
   {
-    title: "Is there a fee to pay?",
+    title: "Do the shortened links expire?",
     content:
-      "No. Our AI chat site is completely free, and you can use it anytime, anywhere.",
+      "No, once a shortened link is created, it remains valid indefinitely unless the original long URL becomes invalid.",
   },
   {
-    title: "How is user privacy protected?",
+    title: "Can I customize the shortened link?",
     content:
-      "We take user privacy very seriously, and all conversation data is strictly confidential and will not be disclosed or used for other purposes.",
+      "Yes, our service supports customizing shortened links, allowing you to set personalized short links as needed.",
   },
   {
-    title: "Is there mobile support?",
+    title: "Do I need to register an account to generate shortened links?",
     content:
-      "Yes, our AI chat site is compatible with mobile devices, and you can use it smoothly on your phone or tablet.",
+      "No, you can directly use our service without the need to register or log in.",
   },
   {
-    title: "What languages can I use to chat with AI?",
+    title: "Does the URL shortener support batch generation?",
     content:
-      "We support multiple languages, including Chinese, English, Spanish, etc., and you can choose the language that suits you to converse with the AI model.",
+      "Yes, you can upload multiple long URLs at once to generate corresponding shortened links in bulk.",
   },
   {
-    title: "How to provide feedback or get help?",
+    title: "How can I track the clicks on my shortened link?",
     content:
-      "You can provide feedback through our website or contact technical support for help, and we will respond promptly and resolve your issues.",
+      "Our URL shortener provides click statistics, allowing you to view the number of clicks, time, and geographical location of the shortened link.",
   },
 ];
 
 export const FAQS_ZH = [
   {
-    title: "这个站点是做什么的？",
+    title: "什么是短链生成器？",
     content:
-      "这个 AI 聊天站点是一个免费的平台，用户可以使用最先进的AI模型，包括 GPT-4、Gemini、Llama3 等，与各种AI模型进行对话。",
+      "短链生成器是一种在线工具，它可以将长网址转换为短网址，便于分享和记忆。",
   },
   {
-    title: "如何开始使用该站点？",
+    title: "短链生成器有什么用途？",
     content:
-      "只需访问我们的网站，选择您想要使用的 AI 模型，然后开始聊天。需要邮箱注册或登录，完全免费。",
+      "短链生成器主要用于社交媒体分享、邮件营销、广告推广等场景，短链接更简洁，便于传播。",
   },
   {
-    title: "该站点的AI模型有哪些？",
+    title: "使用短链生成器安全吗？",
     content:
-      "我们提供多种先进的AI模型，包括 GPT-4、Gemini、Llama3、deepseek、qwen 等，满足不同用户的需求。",
+      "是的，我们的短链生成器确保用户数据的安全性和隐私性，不会存储任何个人信息。",
   },
   {
-    title: "是否需要支付费用？",
-    content: "不需要。我们的AI聊天站点完全免费，您可以随时随地使用。",
+    title: "生成的短链接会过期吗？",
+    content: "不会，一旦生成的短链接将永久有效，除非原始长链接失效。",
   },
   {
-    title: "如何保障用户隐私？",
+    title: "我可以自定义短链接吗？",
     content:
-      "我们非常重视用户隐私，所有对话数据均严格保密，不会被泄露或用于其他用途。",
+      "可以，我们的服务支持自定义短链接，您可以根据需要设置个性化的短链接。",
   },
   {
-    title: "是否有移动端支持？",
-    content:
-      "是的，我们的AI聊天站点兼容移动设备，您可以在手机或平板上流畅使用。",
+    title: "生成短链接需要注册账号吗？",
+    content: "不需要，您可以直接使用我们的服务，无需注册或登录。",
   },
   {
-    title: "我可以使用哪些语言与AI聊天？",
-    content:
-      "我们支持多种语言，包括中文、英文、西班牙语等，您可以选择适合自己的语言与AI模型进行对话。",
+    title: "短链生成器支持批量生成吗？",
+    content: "支持，您可以一次性上传多个长链接，批量生成对应的短链接。",
   },
   {
-    title: "如何提供反馈或获取帮助？",
+    title: "如何追踪短链接的点击情况？",
     content:
-      "您可以通过我们的网站提供反馈或联系技术支持获取帮助，我们会及时回复并解决您的问题。",
+      "我们的短链生成器提供点击统计功能，您可以查看短链接的点击次数、时间和地理位置等信息。",
   },
 ];
 

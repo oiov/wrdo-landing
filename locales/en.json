@@ -1,6 +1,6 @@
 {
   "Hero": {
-    "title1": "",
+    "title1": "A",
     "title2": "Speedy",
     "title3": "Link Shortener",
     "description": "Shorten long URLs to enhance sharing, tracking, and user experience."
@@ -25,17 +25,17 @@
     "description3": ", and I will showcase your tweet and recommendation here."
   },
   "FAQ": {
-    "title": "Frequently Asked Questions",
+    "title": "FAQs",
     "description": "Here are some common questions about us."
   },
   "CTA": {
     "title": "Try it now",
-    "description1": "Experience",
-    "description2": "the most advanced LLMs,",
-    "description3": "join",
-    "description4": "our team, and start",
-    "description5": "exploring",
-    "description6": "endless possibilities!"
+    "description1": "Click",
+    "description2": "the button,",
+    "description3": "generate",
+    "description4": "a link and",
+    "description5": "access",
+    "description6": "it immediately!"
   },
   "CTAButton": {
     "title": "Dashboard"
