@@ -47,7 +47,7 @@ const Header = () => {
               width={32}
               height={32}
             />
-            <span className="text-gray-950 dark:text-gray-300">SORAPI</span>
+            <span className="text-gray-950 dark:text-gray-300">WR.DO</span>
           </Link>
         </div>
 
@@ -69,7 +69,7 @@ const Header = () => {
         <div className="hidden md:flex items-center gap-x-6">
           <HeaderLinks />
           {/* <ThemedButton /> */}
-          <LangSwitcher />
+          {/* <LangSwitcher /> */}
         </div>
 
         <div className="md:hidden">

@@ -1,4 +1,13 @@
-import { LucideIcon, MagnetIcon } from "lucide-react";
+import {
+  AreaChart,
+  Hourglass,
+  Link,
+  LucideIcon,
+  MagnetIcon,
+  Paintbrush,
+  ServerOff,
+  Sparkles,
+} from "lucide-react";
 import { IconType } from "react-icons";
 import { BsGithub } from "react-icons/bs";
 import { FaToolbox } from "react-icons/fa";
@@ -7,35 +16,34 @@ import { MdCloudUpload } from "react-icons/md";
 
 export const FEATURES_EN = [
   {
-    title: "Early Access",
-    content:
-      "Quickly start experiencing LLMs like GPT, Gemini, Llama, Claude, Qwen, etc.",
-    icon: FaToolbox,
+    title: "URL Shortening",
+    content: "Compress your URLs to their minimal length.",
+    icon: Link,
   },
   {
-    title: "Multimodal Support",
-    content: "Supports file, image, and audio uploads and recognition.",
-    icon: MagnetIcon,
+    title: "Analytics",
+    content: "Monitor link analytics and gather insightful statistics.",
+    icon: AreaChart,
   },
   {
-    title: "Custom Models",
-    content: "Supports custom models and system presets.",
-    icon: MdCloudUpload,
+    title: "Serverless",
+    content: "Deploy without the need for traditional servers.",
+    icon: ServerOff,
   },
   {
-    title: "Open Source Advantage",
-    content: "Completely free, with rich customization options.",
-    icon: BsGithub,
+    title: "Customizable Slug",
+    content: "Support for personalized slugs.",
+    icon: Paintbrush,
   },
   {
-    title: "Responsive Design",
-    content: "Carefully designed UI ensures optimal display on any device.",
-    icon: FaMobileScreenButton,
+    title: "AI Slug",
+    content: "Leverage AI to generate slugs.",
+    icon: Sparkles,
   },
   {
-    title: "Global Support",
-    content: "Supports multiple languages, attracting a global audience.",
-    icon: FaEarthAsia,
+    title: "Link Expiration",
+    content: "Set expiration dates for your links.",
+    icon: Hourglass,
   },
 ];
 

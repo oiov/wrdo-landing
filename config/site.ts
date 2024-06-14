@@ -6,12 +6,13 @@ import { SiBuymeacoffee } from "react-icons/si";
 const OPEN_SOURCE_URL = "https://github.com/oiov";
 
 const baseSiteConfig = {
-  name: "SORAPI",
-  description: "Products of sorapi",
-  url: "https://sorapi.dev",
-  ogImage: "https://sorapi.dev/og.png",
+  name: "WR.DO",
+  description:
+    "A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+  url: "https://www.wr.do",
+  ogImage: "https://www.wr.do/og.png",
   metadataBase: "/",
-  keywords: ["sorapi", "awesome LLM applications"],
+  keywords: ["wr.do", "Link Shortener", "Analytics"],
   authors: [
     {
       name: "oiov",

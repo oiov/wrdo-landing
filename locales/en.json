@@ -1,12 +1,12 @@
 {
   "Hero": {
-    "title1": "Experience The Most Advanced",
-    "title2": "LLMs",
-    "title3": "",
-    "description": "Free access to the most advanced AI models, including GPT-4, Gemini, llama3, etc., unleashing your creativity to the fullest."
+    "title1": "",
+    "title2": "Speedy",
+    "title3": "Link Shortener",
+    "description": "Shorten long URLs to enhance sharing, tracking, and user experience."
   },
   "SocialProof": {
-    "maker": "Users have joined to experience"
+    "maker": "visitors clicked on the link"
   },
   "Feature": {
     "title": "Features"
@@ -29,7 +29,7 @@
     "description": "Here are some common questions about us."
   },
   "CTA": {
-    "title": "Join us now",
+    "title": "Try it now",
     "description1": "Experience",
     "description2": "the most advanced LLMs,",
     "description3": "join",
@@ -38,6 +38,6 @@
     "description6": "endless possibilities!"
   },
   "CTAButton": {
-    "title": "Chat with LLMs"
+    "title": "Dashboard"
   }
 }
