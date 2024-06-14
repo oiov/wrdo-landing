@@ -17,7 +17,7 @@ export const FAQS_EN = [
   {
     title: "Do the shortened links expire?",
     content:
-      "No, once a shortened link is created, it remains valid indefinitely unless the original long URL becomes invalid.",
+      "Yes, by default, all links will not expire, and users can customize the expiration time of links.",
   },
   {
     title: "Can I customize the shortened link?",
@@ -27,12 +27,11 @@ export const FAQS_EN = [
   {
     title: "Do I need to register an account to generate shortened links?",
     content:
-      "No, you can directly use our service without the need to register or log in.",
+      "Yes, you need to log in, which can to some extent ensure the security of your link.",
   },
   {
-    title: "Does the URL shortener support batch generation?",
-    content:
-      "Yes, you can upload multiple long URLs at once to generate corresponding shortened links in bulk.",
+    title: "Does the URL shortener support API calls?",
+    content: "Yes, supports API calls.",
   },
   {
     title: "How can I track the clicks on my shortened link?",
