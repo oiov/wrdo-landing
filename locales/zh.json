@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "体验最先进的",
+    "title2": "AI 大模型",
+    "title3": "",
+    "description": "免费使用最先进的 AI 模型，包括 GPT-4、Gemini、llama3 等，让你的创意无限发挥。"
+  },
+  "SocialProof": {
+    "maker": "用户已加入体验"
+  },
+  "Feature": {
+    "title": "特性"
+  },
+  "Pricing": {
+    "title": "使用免费",
+    "title2": "",
+    "description": "我们致力于提供开源、免费的 AI 大模型体验。",
+    "doYouLike": "你喜欢这些 AI 模型吗？",
+    "follow": "关注我的推特，获取最新信息。"
+  },
+  "WallOfLove": {
+    "title": "用户心声",
+    "description1": "如果你使用了我们的站点并在 X 上推荐了它，",
+    "description2": "请告诉我",
+    "description3": "，我会在这里展示你的推文和推荐。"
+  },
+  "FAQ": {
+    "title": "常见问题",
+    "description": "这里列出了一些关于我们的常见问题。"
+  },
+  "CTA": {
+    "title": "立即加入我们",
+    "description1": "体验",
+    "description2": "最先进的 AI 大模型，",
+    "description3": "加入",
+    "description4": "我们的团队，并开始",
+    "description5": "探索",
+    "description6": "无限可能！"
+  },
+  "CTAButton": {
+    "title": "Chat with LLMs"
+  }
+}

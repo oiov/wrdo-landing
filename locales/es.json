@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "Experimenta lo más avanzado",
+    "title2": "Modelos grandes de AI",
+    "title3": "",
+    "description": "Accede gratuitamente a los modelos de IA más avanzados, incluyendo GPT-4, Gemini, llama3, etc., liberando al máximo tu creatividad."
+  },
+  "SocialProof": {
+    "maker": "Usuarios han unido a experimentar"
+  },
+  "Feature": {
+    "title": "Características"
+  },
+  "Pricing": {
+    "title": "Gratis para usar",
+    "title2": "",
+    "description": "Estamos comprometidos a proporcionar experiencias de modelos grandes de IA de código abierto y gratuitas.",
+    "doYouLike": "¿Te gustan estos modelos de IA?",
+    "follow": "Sigue mi Twitter para las últimas actualizaciones."
+  },
+  "WallOfLove": {
+    "title": "Voces de Usuarios",
+    "description1": "Si has usado nuestro sitio y lo has recomendado en X,",
+    "description2": "por favor avísame",
+    "description3": ", y mostraré tu tweet y recomendación aquí."
+  },
+  "FAQ": {
+    "title": "Preguntas Frecuentes",
+    "description": "Aquí hay algunas preguntas frecuentes sobre nosotros."
+  },
+  "CTA": {
+    "title": "Únete a nosotros ahora",
+    "description1": "Experimenta",
+    "description2": "los modelos de IA más avanzados,",
+    "description3": "únete",
+    "description4": "a nuestro equipo, y comienza",
+    "description5": "explorar",
+    "description6": "posibilidades infinitas!"
+  },
+  "CTAButton": {
+    "title": "Charla con LLMs"
+  }
+}

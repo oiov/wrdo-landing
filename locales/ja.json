@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "最先端の体験",
+    "title2": "AI 大規模モデル",
+    "title3": "",
+    "description": "GPT-4、Gemini、llama3など、最先端のAIモデルを無料で利用し、あなたの創造力を最大限に引き出します。"
+  },
+  "SocialProof": {
+    "maker": "ユーザーが体験に参加しました"
+  },
+  "Feature": {
+    "title": "特徴"
+  },
+  "Pricing": {
+    "title": "無料で使用可能",
+    "title2": "",
+    "description": "オープンソースで無料のAI大規模モデル体験を提供することに専念しています。",
+    "doYouLike": "これらのAIモデルが好きですか？",
+    "follow": "最新情報を受け取るために私のTwitterをフォローしてください。"
+  },
+  "WallOfLove": {
+    "title": "ユーザーの声",
+    "description1": "もし私たちのサイトを使ってXでそれを推薦したら、",
+    "description2": "教えてください",
+    "description3": "、あなたのツイートと推薦をここに掲載します。"
+  },
+  "FAQ": {
+    "title": "よくある質問",
+    "description": "ここに私たちに関するいくつかのよくある質問があります。"
+  },
+  "CTA": {
+    "title": "今すぐ参加",
+    "description1": "体験",
+    "description2": "最先端のAI大規模モデル、",
+    "description3": "参加",
+    "description4": "私たちのチームに、そして始める",
+    "description5": "探求",
+    "description6": "無限の可能性を！"
+  },
+  "CTAButton": {
+    "title": "LLMsとチャットする"
+  }
+}

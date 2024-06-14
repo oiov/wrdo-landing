@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "Experience The Most Advanced",
+    "title2": "LLMs",
+    "title3": "",
+    "description": "Free access to the most advanced AI models, including GPT-4, Gemini, llama3, etc., unleashing your creativity to the fullest."
+  },
+  "SocialProof": {
+    "maker": "Users have joined to experience"
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "Pricing": {
+    "title": "Free to use",
+    "title2": "",
+    "description": "We are committed to providing open-source, free experiences with LLMs.",
+    "doYouLike": "Do you like these AI models?",
+    "follow": "Follow my Twitter for the latest updates."
+  },
+  "WallOfLove": {
+    "title": "User Voices",
+    "description1": "If you have used our site and recommended it on X,",
+    "description2": "please let me know",
+    "description3": ", and I will showcase your tweet and recommendation here."
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "description": "Here are some common questions about us."
+  },
+  "CTA": {
+    "title": "Join us now",
+    "description1": "Experience",
+    "description2": "the most advanced LLMs,",
+    "description3": "join",
+    "description4": "our team, and start",
+    "description5": "exploring",
+    "description6": "endless possibilities!"
+  },
+  "CTAButton": {
+    "title": "Chat with LLMs"
+  }
+}
